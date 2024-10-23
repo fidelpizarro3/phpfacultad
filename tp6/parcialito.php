@@ -1,5 +1,5 @@
 <?php
- 
+
 
 
 echo "bienvenidos. desea agendar un turno?(si/no)";
